@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FIRDev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19dc91190ad205d3e98f49915c689843ea535c78")]
 [assembly: System.Reflection.AssemblyProductAttribute("FIRDev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FIRDev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
