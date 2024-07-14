@@ -1,0 +1,14 @@
+/Users/zuev/SourceTree/FIRDev/FIRDev/bin/Debug/net8.0/FIRDev
+/Users/zuev/SourceTree/FIRDev/FIRDev/bin/Debug/net8.0/FIRDev.deps.json
+/Users/zuev/SourceTree/FIRDev/FIRDev/bin/Debug/net8.0/FIRDev.runtimeconfig.json
+/Users/zuev/SourceTree/FIRDev/FIRDev/bin/Debug/net8.0/FIRDev.dll
+/Users/zuev/SourceTree/FIRDev/FIRDev/bin/Debug/net8.0/FIRDev.pdb
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/FIRDev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/FIRDev.AssemblyInfoInputs.cache
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/FIRDev.AssemblyInfo.cs
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/FIRDev.csproj.CoreCompileInputs.cache
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/FIRDev.dll
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/refint/FIRDev.dll
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/FIRDev.pdb
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/FIRDev.genruntimeconfig.cache
+/Users/zuev/SourceTree/FIRDev/FIRDev/obj/Debug/net8.0/ref/FIRDev.dll
